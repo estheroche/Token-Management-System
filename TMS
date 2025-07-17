@@ -1,0 +1,12 @@
+okenomics apllication that will allow builders or users to create token with on button
+
+
+Token creation: ERC20/ERC721/ERC1155 or custom.
+
+    Minting & burning logic.
+
+    Token distribution model: airdrops, vesting, staking rewards.
+
+    Total supply and inflation/deflation mechanisms.
+
+    Treasury management (multi-sig, DAO-controlled, etc.).
